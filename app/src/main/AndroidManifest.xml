@@ -10,8 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SupportDesk">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".OnboardingActivity"
+            android:exported="true"
+            android:theme="@style/splashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
