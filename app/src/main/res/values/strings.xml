@@ -5,4 +5,9 @@
     <string name="get_started">Get Started</string>
     <string name="next">Next</string>
 
+    <!-- Login URL -->
+    <string name="loginUrl">HELPDESK URL</string>
+    <string name="loginPlaceHolder">helpdesk.supportdesk.com</string>
+    <string name="forgotUrl">Forgot supportdesk URL?</string>
+
 </resources>
