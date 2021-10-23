@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Support Desk</string>
+
+    <!-- Onboarding screen -->
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+
 </resources>
